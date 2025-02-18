@@ -1,5 +1,5 @@
 👋 Hello! I'm [Enika]
-🔍 QA Test Engineer | 🧪 Software Testing Enthusiast | 🔧 Automation & Manual Testing
+🔍 QA Test Engineer | 🧪 Software Testing Enthusiast | 🔧 Automation & Manual Testing @ Avasoft
 💡 Passionate about ensuring software quality and delivering seamless user experiences.
 🎯 Specializing in automation testing, manual testing, API testing, and performance testing.
 🔎 Focused on bug detection, process optimization, and test strategy development.
