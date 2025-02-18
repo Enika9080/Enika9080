@@ -23,7 +23,7 @@
 📬 Let's Connect!
 📧 Email: [Enikapalanivel@gmail.com]
 🔗 LinkedIn:[ https://www.linkedin.com/in/enika-p-a76864243 ]
-💻 GitHub: [Your GitHub Profile]
+💻 GitHub: [https://github.com/Enika9080/Enika9080]
 
 <!---
 Enika9080/Enika9080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
